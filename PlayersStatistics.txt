@@ -1,0 +1,20 @@
+Player Name, Wins, Losses
+S, Wins: 21, Losses: 12
+A, Wins: 15, Losses: 20
+Sss, Wins: 5, Losses: 1
+D, Wins: 4, Losses: 3
+As, Wins: 0, Losses: 3
+S, Wins: 15, Losses: 11
+S, Wins: 13, Losses: 9
+D, Wins: 2, Losses: 1
+S, Wins: 8, Losses: 5
+Secondplayername, Wins: 1, Losses: 0
+Firstplayername, Wins: 0, Losses: 1
+Asd, Wins: 1, Losses: 0
+Asd, Wins: 0, Losses: 1
+Asdasd, Wins: 1, Losses: 0
+Dfsdf, Wins: 0, Losses: 1
+S, Wins: 2, Losses: 2
+S, Wins: 1, Losses: 1
+Ghjh, Wins: 1, Losses: 0
+Jjghjhg, Wins: 0, Losses: 1
